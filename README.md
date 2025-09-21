@@ -64,9 +64,11 @@ admin_comment	text			却下理由
 approved_at	timestamp			承認日時
 created_at	timestamp			
 updated_at	timestamp			
+
 📐 ER図
 
-https://private-user-images.githubusercontent.com/202714662/492023915-37b8551d-6783-4236-8166-938e35676579.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0NjAyMzIsIm5iZiI6MTc1ODQ1OTkzMiwicGF0aCI6Ii8yMDI3MTQ2NjIvNDkyMDIzOTE1LTM3Yjg1NTFkLTY3ODMtNDIzNi04MTY2LTkzOGUzNTY3NjU3OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyMVQxMzA1MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZmRhMjE3YjY5NmI3YWI1NGJkMGI3NzQyN2RlMjIwNzEzMDE1NDc3M2NjZGY1MTFlMWQwODFmMGRiNjQ0YWNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Mxe5CKI0USKuEd0kfbrI-f9ECCl-u8mUsgGMJne8DUI
+<img width="2847" height="3840" alt="image" src="https://github.com/user-attachments/assets/3f7842b0-3afe-48a4-a6ea-b557fbcc5929" />
+
 
 👤 テストアカウント
 
